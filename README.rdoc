@@ -2,5 +2,3 @@
 
 This README
 This is a project based learning app I am building in my http://careerfoundry.com/ lessons.
-
-test
