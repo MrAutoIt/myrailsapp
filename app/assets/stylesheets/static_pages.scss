@@ -1,3 +1,32 @@
 // Place all the styles related to the static_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+// NAV BAR
+.navbar-default {
+    background-color: #4A2B0F;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:visited,
+.navbar-default .nav li a,
+.navbar-default .nav li a:visited {
+    color: #fff;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .nav li a:hover {
+  color: #D2A662;
+}
+
+.main-title,
+.subtitle {
+	text-align: center;
+}
+
+// FOOTER
+footer {
+	background-color: #4A2B0F;
+	color: #fff;
+}
